@@ -30,6 +30,13 @@ npm run dev
 npm run build
 ```
 
+## GitHub Pages
+
+This repo is configured to deploy from GitHub Actions to GitHub Pages.
+After the first successful workflow run, the public demo will be available at:
+
+`https://rsqian.github.io/Hackathon_0610/`
+
 ## License
 
 MIT
